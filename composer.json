@@ -1,5 +1,5 @@
 {
-  "name": "apexwire/yii2-restclient",
+  "name": "capoloja/yii2-restclient",
   "type": "yii2-extension",
   "description": "Tools to use API as ActiveRecord for Yii2",
   "keywords": [
@@ -8,12 +8,12 @@
     "extension",
     "yii2"
   ],
-  "homepage": "https://github.com/apexwire/yii2-restclient",
+  "homepage": "https://github.com/capoloja/yii2-restclient",
   "license": "BSD-3-Clause",
   "support": {
-    "source": "https://github.com/apexwire/yii2-restclient",
-    "issues": "https://github.com/apexwire/yii2-restclient/issues",
-    "wiki": "https://github.com/apexwire/yii2-restclient/wiki"
+    "source": "https://github.com/capoloja/yii2-restclient",
+    "issues": "https://github.com/capoloja/yii2-restclient/issues",
+    "wiki": "https://github.com/capoloja/yii2-restclient/wiki"
   },
   "authors": [
     {
@@ -31,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "apexwire\\restclient\\": "src"
+      "capoloja\\restclient\\": "src"
     }
   }
 }
